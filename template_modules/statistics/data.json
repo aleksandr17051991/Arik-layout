@@ -1,6 +1,39 @@
 {
   "statistics": {
-    "sessions": [],
-    "files": []
+    "sessions": [
+      {
+        "date": "06.02.2026",
+        "start": 1770396518532,
+        "end": 1770399812140
+      },
+      {
+        "date": "07.02.2026",
+        "start": 1770472024664,
+        "end": 1770477355346
+      }
+    ],
+    "files": [
+      "settings.scss",
+      "index.html",
+      "style.scss",
+      "minus.svg",
+      "info.svg",
+      "chain.svg",
+      "arrow.svg",
+      "plus.svg",
+      "check.svg",
+      "s-behance.svg",
+      "mail.svg",
+      "s-dribble.svg",
+      "s-fb.svg",
+      "s-pinterest.svg",
+      "phone.svg",
+      "s-instagram.svg",
+      "s-tiktok.svg",
+      "s-twitch.svg",
+      "s-whatsapp.svg",
+      "s-twitter.svg",
+      "s-youtube.svg"
+    ]
   }
 }

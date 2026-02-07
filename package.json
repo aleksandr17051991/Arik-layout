@@ -2,8 +2,8 @@
   "name": "flsstart",
   "type": "module",
   "version": "4.0.0",
-  "homepage": "https://www.patreon.com/collection/1439491?view=condensed",
-  "author": "Andrikanych Yevhen <template@fls.guru> (https://www.youtube.com/c/freelancerlifestyle)",
+  "homepage": "",
+  "author": "Oleksandr Oliferchuk",
   "scripts": {
     "dev": "vite",
     "online": "vite --host",
